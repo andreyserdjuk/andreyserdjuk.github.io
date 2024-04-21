@@ -23,6 +23,8 @@ module.exports = {
 📫 Integration with third-party logistic/delivery API's: REST, BORD512, EDI Edifact.   
 💻 Maintenance of UI: React, Redux, TypeScript.   
 🚀 Writing deployment scenarios to AWS using Github actions, Docker, Bash.
+
+After years of gitflow weekly releases I finally use trunk-based deployment and semantic releases. All microservice dependencies are updating by Dependabot with automatic merging after successful checks (with patch version increment). Deploy to AWS is simplified to Github action. I use PHPStan everywhere even in legacy projects, and refactor JS -> TypeScript when it's possible.
 `
     },
     {
