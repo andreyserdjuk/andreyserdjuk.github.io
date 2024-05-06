@@ -97,7 +97,7 @@ Company site support: Zend Framework 1.1, JQuery, MySQL, HTML+CSS3. Development 
     }
   ],
   languages: [
-    'Deutch - B1 (ich besuche derzeit den Deutschkurs B1)',
+    'Deutch - B1',
     'English - B2',
     'Russian, Ukrainian - native',
   ]
